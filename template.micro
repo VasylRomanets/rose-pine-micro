@@ -1,0 +1,83 @@
+## $name for micro
+## $description
+## https://github.com/vasylromanets/rose-pine-micro
+
+color-link default "$text,$base"
+
+color-link comment "italic $muted"
+color-link comment.bright "italic $subtle"
+
+color-link identifier "$text"
+color-link identifier.var "$text"
+color-link identifier.class "$foam"
+color-link identifier.function "$rose"
+color-link identifier.macro "$iris"
+
+color-link constant "$gold"
+color-link constant.builtin "$gold"
+color-link constant.bool "$gold"
+color-link constant.bool.true "$gold"
+color-link constant.bool.false "$gold"
+color-link constant.number "$gold"
+color-link constant.string "$gold"
+color-link constant.string.char "$gold"
+color-link constant.string.url "underline $gold"
+color-link constant.specialChar "$rose"
+
+color-link statement "$pine"
+color-link statement.control "$pine"
+color-link statement.declaration "$pine"
+
+color-link symbol "$subtle"
+color-link symbol.operator "$subtle"
+color-link symbol.brackets "$subtle"
+color-link symbol.tag "$rose"
+
+color-link preproc "$iris"
+color-link preproc.shebang "italic $muted"
+
+color-link type "$foam"
+color-link type.keyword "$pine"
+color-link type.storage "$foam"
+
+color-link special "$iris"
+color-link underlined "underline $foam"
+
+color-link error "bold $love"
+color-link error-message "$love"
+color-link message "$foam"
+color-link todo "bold italic $rose,$highlightLow"
+
+color-link selection "$text,$highlightMed"
+
+color-link statusline "$text,$overlay"
+color-link statusline.inactive "$muted,$surface"
+color-link statusline.suggestions "$subtle,$overlay"
+
+color-link tabbar "$muted,$surface"
+color-link tabbar.active "$text,$overlay"
+
+color-link indent-char "$highlightHigh,$base"
+color-link line-number "$muted,$surface"
+color-link current-line-number "$subtle,$surface"
+
+color-link gutter-info "$foam,$surface"
+color-link gutter-error "$love,$surface"
+color-link gutter-warning "$gold,$surface"
+
+color-link diff-added "$foam"
+color-link diff-modified "$gold"
+color-link diff-deleted "$love"
+
+color-link cursor-line "$highlightLow"
+color-link color-column "$highlightLow"
+
+color-link ignore "$muted"
+color-link scrollbar "$highlightHigh"
+color-link divider "$highlightMed"
+
+color-link match-brace "$base,$iris"
+color-link hlsearch "$base,$gold"
+
+color-link tab-error "$love"
+color-link trailingws "$love"
