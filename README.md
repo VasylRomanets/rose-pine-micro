@@ -25,7 +25,7 @@
 
 <img width="75%" alt="Rosé Pine Dawn with micro" src="./.github/assets/rose-pine-dawn.png" />
 
-Screenshots use [Meslo LG Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Meslo).
+Screenshots use [Meslo LGS Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Meslo).
 
 <details>
 <summary>Sample code used in screenshots</summary>
