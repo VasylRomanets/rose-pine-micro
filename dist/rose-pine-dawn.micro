@@ -2,27 +2,27 @@
 ## All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 ## https://github.com/vasylromanets/rose-pine-micro
 
-color-link default "#575279,#faf4ed"
+color-link default "#464261,#faf4ed"
 
 color-link comment "italic #9893a5"
 color-link comment.bright "italic #797593"
 
-color-link identifier "#575279"
-color-link identifier.var "#575279"
+color-link identifier "#464261"
+color-link identifier.var "#464261"
 color-link identifier.class "#56949f"
 color-link identifier.function "#d7827e"
 color-link identifier.macro "#907aa9"
 
-color-link constant "#ea9d34"
-color-link constant.builtin "#ea9d34"
+color-link constant "#d7827e"
+color-link constant.builtin "#d7827e"
 color-link constant.bool "#d7827e"
 color-link constant.bool.true "#d7827e"
 color-link constant.bool.false "#d7827e"
-color-link constant.number "#ea9d34"
+color-link constant.number "#d7827e"
 color-link constant.string "#ea9d34"
 color-link constant.string.char "#ea9d34"
 color-link constant.string.url "underline #ea9d34"
-color-link constant.specialChar "#56949f"
+color-link constant.specialChar "bold #907aa9"
 
 color-link statement "#286983"
 color-link statement.control "#286983"
@@ -48,14 +48,14 @@ color-link error-message "#b4637a"
 color-link message "#56949f"
 color-link todo "bold italic #d7827e,#f4ede8"
 
-color-link selection "#575279,#dfdad9"
+color-link selection "#464261,#dfdad9"
 
-color-link statusline "#575279,#f2e9e1"
+color-link statusline "#464261,#f2e9e1"
 color-link statusline.inactive "#9893a5,#fffaf3"
 color-link statusline.suggestions "#797593,#f2e9e1"
 
 color-link tabbar "#9893a5,#fffaf3"
-color-link tabbar.active "#575279,#f2e9e1"
+color-link tabbar.active "#464261,#f2e9e1"
 
 color-link indent-char "#cecacd,#faf4ed"
 color-link line-number "#9893a5,#fffaf3"
